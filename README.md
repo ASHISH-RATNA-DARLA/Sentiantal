@@ -1,15 +1,34 @@
-# IT-Company-Website
+# Sentiantal Private Limited
 
 ## Overview
 
-The project “IT Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
+The project **“Company Website”** is a responsive website designed for **Sentiantal**, a high-tech solutions company. This website is developed using **HTML, CSS, Bootstrap, and JavaScript** to ensure it works seamlessly across all devices (desktop, tablet, and mobile). It includes essential modules such as **About Us**, **Services**, **Portfolio**, **Team**, **Careers**, **Contact**, and **FAQ**.
+
+The website’s design meets the modern standards for a tech-focused company and is ready to be used as an informative portal for both clients and partners. Forms like the **Contact Form** and **Career Form** can be integrated with back-end services to notify the company about new submissions and inquiries.
 
 ## Website Link
 
-Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
+Visit our website now and explore our services!
+[https://ashish-ratna-darla.github.io/Sentiantal/](https://ashish-ratna-darla.github.io/Sentiantal/)
 
-##
+## Features
+- **Responsive Design**: Works well on all screen sizes (mobile, tablet, desktop).
+- **Modular Structure**: Contains sections such as About, Services, Portfolio, Team, Careers, Contact, and FAQ.
+- **Dynamic Content**: Includes form submissions that can be integrated with email services for real-time notifications.
+- **Sleek UI**: Designed with modern CSS and Bootstrap to create a professional look.
 
-__NOTE: Please be aware that the PHP Mailer feature is not functional on the deployed website. To utilize it, you'll need to download the entire project and run it locally on your computer using XAMPP or WAMP.__
-__Additionally, you'll have to set up the sender's credentials in the 'mailing/mailingvariables.php' file. In the 'contactme.php' and 'careers.php' files, you should specify the receiver's email address. Don't forget to provide the path to the 'tmp-uploads' folder in 'careers.php' file to store uploaded files.__
+## Important Notes
+
+1. **Hosting**: This website is currently hosted via **GitHub Pages** for easy public access.
+2. **Email Notifications**: The email functionality (PHP Mailer) is not integrated on the live site. To utilize it locally:
+   - Download the entire project and run it using **XAMPP** or **WAMP**.
+   - Set up the sender’s credentials in the `mailing/mailingvariables.php` file.
+   - Update the receiver’s email address in `contactme.php` and `careers.php`.
+   - Define the correct path for the **‘tmp-uploads’** folder in `careers.php` to store uploaded files.
+
+## How to Use Locally
+1. **Download the Project**:
+   - Clone or download the repository to your local machine.
+
+   ```bash
+   git clone https://github.com/ASHISH-RATNA-DARLA/Sentiantal.git
